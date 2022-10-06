@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @27terminal
-- 👀 I’m interested in angular, php, node and java
-- 🌱 I’m currently learning node ang java
-- 💞️ I’m looking to collaborate on node nad java
+- 👀 I’m interested in angular, php (Laravel), node and java (spring boot)
+- 🌱 I’m currently learning node (express and deno) and java (spring boot)
+- 💞️ I’m looking to collaborate on node (express and deno) and java (spring boot)
 - 📫 How to reach me 27terminal@gmail.com
 
 <!---
