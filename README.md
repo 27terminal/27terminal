@@ -6,7 +6,6 @@
 
 **Repository Views** ![Views](https://profile-counter.glitch.me/27terminal/count.svg)
 
-<img width="99.0%" src="https://raw.githubusercontent.com/27terminal/MailFinder/main/IMG_20211107_192618.jpg"/> 
 
 <!---
 27terminal/27terminal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
